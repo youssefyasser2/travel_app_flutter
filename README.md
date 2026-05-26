@@ -2,7 +2,7 @@
 
 A premium, modern Flutter application designed for travelers to explore destinations, find budget tours, and plan their next holiday with a sleek, high-performance UI.
 
-## ✨ Features
+## Features
 
 - **Immersive Onboarding**: A high-impact entry flow with premium imagery and smooth transitions.
 - **Smart Destination Discovery**: 
@@ -19,7 +19,7 @@ A premium, modern Flutter application designed for travelers to explore destinat
   - Custom animations and soft elevations.
   - Pixel-perfect implementation matching high-fidelity design references.
 
-## 🏗️ Architecture
+## Architecture
 
 The project follows a **Feature-Based Modular Architecture** (inspired by Clean Architecture principles) to ensure scalability and maintainability:
 
@@ -35,7 +35,7 @@ lib/
     └── onboarding/     # App entry and introduction flow
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [Flutter](https://flutter.dev/) (latest stable)
 - **Language**: [Dart](https://dart.dev/)
@@ -43,7 +43,7 @@ lib/
 - **Asset Management**: `flutter_svg` for crisp, scalable iconography.
 - **Styling**: Vanilla Flutter Custom Styles (no heavy external UI libraries for maximum control).
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -73,11 +73,4 @@ lib/
    flutter run
    ```
 
-## 📸 Screenshots
-
-| Onboarding | Home Screen | Details Page |
-| :---: | :---: | :---: |
-| ![Onboarding](https://via.placeholder.com/300x600?text=Onboarding) | ![Home](https://via.placeholder.com/300x600?text=Home+Screen) | ![Details](https://via.placeholder.com/300x600?text=Details+Page) |
-
----
 *Created by Youssef for travelers everywhere.*
