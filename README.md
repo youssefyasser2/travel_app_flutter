@@ -1,4 +1,4 @@
-# ✈️ Travel App - Modern Flutter Destination Guide
+# Travel App - Modern Flutter Destination Guide
 
 A premium, modern Flutter application designed for travelers to explore destinations, find budget tours, and plan their next holiday with a sleek, high-performance UI.
 
